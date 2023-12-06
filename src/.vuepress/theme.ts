@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://tecgui.cn",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "LuLin",
+    url: "https://tecgui.cn",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "may-bug/tecgui",
 
   docsDir: "src",
 
@@ -34,10 +34,7 @@ export default hopeTheme({
     },
   },
 
-  // page meta
-  metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
-  },
+
 
   plugins: {
     // You should generate and use your own comment service
