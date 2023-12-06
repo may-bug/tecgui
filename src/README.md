@@ -1,6 +1,5 @@
 ---
 home: true
-icon: home
 title: 主页
 heroImage: /logo.svg
 bgImageStyle:
@@ -9,7 +8,7 @@ heroText: 程序笔记屋
 tagline: 一键开启新视界
 actions:
   - text: 即刻开始 →
-    link: ./demo/
+    link: ./start/
     type: primary
 features:
   - title: 简洁至上
