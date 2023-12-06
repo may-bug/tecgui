@@ -8,7 +8,7 @@ bgImageStyle:
 heroText: 程序笔记屋
 tagline: 一键开启新视界
 actions:
-  - text: 使用指南 →
+  - text: 即刻开始 →
     link: ./demo/
     type: primary
 features:
@@ -20,5 +20,6 @@ features:
     details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: ICP备案号：<a href="https://xf-studio.cn">2023040028</a><br>
+  公安备案号：<a href="https://xf-studio.cn">2023040028</a>
 ---
